@@ -8,5 +8,9 @@
 
 - Task:
   1. Create the metrics according to the metrics list.
-  2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
+  2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting.
   3. Create relevant insights not provided in the metric list/stakeholder meeting.
+ 
+Not forgetting to mention, I created this dashboard by drawing inspiration and ideas from the winners of this challenge.
+
+Link to the challenge: https://codebasics.io/challenge/codebasics-resume-project-challenge/5
