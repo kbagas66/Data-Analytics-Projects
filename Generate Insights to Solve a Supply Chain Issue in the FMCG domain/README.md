@@ -1,5 +1,3 @@
-[Link to the interactive dashboard I made]()
-
 - Problem Statement
 
   AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
@@ -14,5 +12,6 @@
   3. Create relevant insights not provided in the metric list/stakeholder meeting.
  
 Not forgetting to mention, I created this dashboard by drawing inspiration and ideas from the winners of this challenge.
+The dashboard was made in "Microsoft Power BI"
 
 Link to the challenge: https://codebasics.io/challenge/codebasics-resume-project-challenge/5
