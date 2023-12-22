@@ -10,7 +10,7 @@ WHERE customer = "Atliq Exclusive"
 
 
 # Request 2
-# Using Subquery
+-- Using Subquery
 SELECT P2020.PCode AS unique_products_2020
 	, P2021.PCode AS unique_products_2021
 	, ROUND(abs(P2020.PCode - P2021.PCode)/P2020.PCode*100,2) percentage_chg
@@ -23,7 +23,7 @@ FROM
 	FROM fact_gross_price
 	WHERE fiscal_year = 2021) AS P2021;
 
-# Using CTE
+-- Using CTE
 WITH 
 P2020 AS
 	(SELECT DISTINCT(COUNT(product_code)) AS PCount
@@ -50,7 +50,7 @@ ORDER BY product_count DESC;
 
 
 # Request 4
-# Using Subquery
+-- Using Subquery
 SELECT P2020.segment 
 	, P2020.PCount unique_products_2020 
 	, P2021.PCount unique_products_2021
@@ -72,7 +72,7 @@ FROM
 WHERE 
 	P2020.segment = P2021.segment;
 
-# Using CTE (and JOIN)
+-- Using CTE (and JOIN)
 WITH
 P2020 AS
 	(SELECT DP.segment segment
