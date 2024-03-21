@@ -14,7 +14,6 @@ This is part of the Codebasics resume project challenges
   2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting.
   3. Create relevant insights not provided in the metric list/stakeholder meeting.
  
-Not forgetting to mention, I created this dashboard by drawing inspiration and ideas from the winners of this challenge.
 The dashboard was made in "Microsoft Power BI"
 
 Link to the challenge: https://codebasics.io/challenge/codebasics-resume-project-challenge/5
